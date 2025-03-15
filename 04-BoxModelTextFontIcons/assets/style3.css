@@ -15,7 +15,7 @@
 }
 
 body {
-    background: url('img/joe-woods-4Zaq5xY5M_c-unsplash.jpg') no-repeat center center/cover;
+    background: url('./assetsimg/joe-woods-4Zaq5xY5M_c-unsplash.jpg') no-repeat center center/cover;
     justify-content: center;
     align-items: center;
     height: 100vh;

@@ -52,7 +52,7 @@
 
 .dropdown{
     width: 240px;
-    margin-top: 10px;
+    margin-top: 30px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -151,6 +151,12 @@
     position: relative;
     top: 40px;
     left: 100px;
+}
+
+.card_text{
+    display: flex;
+    gap: 530px;
+    margin-bottom: 25px;
 }
 
 .card{
